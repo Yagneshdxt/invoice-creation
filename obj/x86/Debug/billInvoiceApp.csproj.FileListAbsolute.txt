@@ -1,0 +1,17 @@
+E:\BillInvoiceApp\billInvoiceApp\bin\Debug\BillInvoice.mdf
+E:\BillInvoiceApp\billInvoiceApp\bin\Debug\BillInvoice_log.ldf
+E:\BillInvoiceApp\billInvoiceApp\bin\Debug\billInvoiceApp.exe.config
+E:\BillInvoiceApp\billInvoiceApp\bin\Debug\billInvoiceApp.exe
+E:\BillInvoiceApp\billInvoiceApp\bin\Debug\billInvoiceApp.pdb
+E:\BillInvoiceApp\billInvoiceApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BillInvoiceApp\billInvoiceApp\obj\x86\Debug\billInvoiceApp.Form1.resources
+E:\BillInvoiceApp\billInvoiceApp\obj\x86\Debug\billInvoiceApp.Properties.Resources.resources
+E:\BillInvoiceApp\billInvoiceApp\obj\x86\Debug\billInvoiceApp.testFrm.resources
+E:\BillInvoiceApp\billInvoiceApp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BillInvoiceApp\billInvoiceApp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\BillInvoiceApp\billInvoiceApp\obj\x86\Debug\billInvoiceApp.exe
+E:\BillInvoiceApp\billInvoiceApp\obj\x86\Debug\billInvoiceApp.pdb
+E:\BillInvoiceApp\billInvoiceApp\bin\Debug\billInvoiceApp.exe.manifest
+E:\BillInvoiceApp\billInvoiceApp\bin\Debug\billInvoiceApp.application
+E:\BillInvoiceApp\billInvoiceApp\obj\x86\Debug\billInvoiceApp.exe.manifest
+E:\BillInvoiceApp\billInvoiceApp\obj\x86\Debug\billInvoiceApp.application
